@@ -9,6 +9,6 @@ Choose how you want to play! Add more impostors, tasks, decrease visibility and 
 #### Cross-platform:
 play with your friends between PC, Android, and iOS!
 
-## Played Games
+## Archives
 
-*coming soon!*
+*Coming Soon!*
